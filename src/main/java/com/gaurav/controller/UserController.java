@@ -1,4 +1,4 @@
-package com.gaurav;
+package com.gaurav.controller;
 
 import com.gaurav.service.ApiService;
 import org.springframework.stereotype.Controller;
