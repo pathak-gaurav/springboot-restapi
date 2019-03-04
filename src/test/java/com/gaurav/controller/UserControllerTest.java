@@ -1,4 +1,4 @@
-package com.gaurav;
+package com.gaurav.controller;
 
 import com.gaurav.service.ApiService;
 import org.junit.Before;
@@ -32,6 +32,6 @@ public class UserControllerTest {
 
     @Test
     public void formPost() {
-        
+
     }
 }
